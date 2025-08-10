@@ -1,4 +1,4 @@
-# Ishqha Khidzr + is-kh.org
+# Ishqha Khidzr + [is-kh.org](http://www.is-kh.org)
 
 > **Copyright © Ishqha Khidzr 2025. All rights reserved.**  
 > All content in this repository, including code, text, images, and design is the exclusive property of the copyright holder.  
