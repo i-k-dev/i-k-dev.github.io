@@ -69,7 +69,7 @@ header a:nth-child(3) { justify-self: end; }    /* Network */
     object-fit: contain;
   }
   
-  footer {
+  /* footer {
     position: fixed;
     bottom: 0;
     left: 0;
@@ -80,8 +80,29 @@ header a:nth-child(3) { justify-self: end; }    /* Network */
     font-variant: small-caps;
     letter-spacing: 1px;
     text-decoration: none;
-    color: #cfcf6a !important; /* darker */
-    background-color: rgba(0, 0, 0, 0.6); /* transparent bg */
+    color: #cfcf6a !important;
+    background-color: rgba(0, 0, 0, 0.6);
+  } */ 
+   /* Something's fucked here, cba to diagnose - update below */
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    font-size: calc(clamp(0.7rem, 1.5vw, 1rem) - 2px);
+    font-variant: small-caps;
+    letter-spacing: 1px;
+    background-color: rgba(0, 0, 0, 0.6);
+  }
+
+  footer p a {
+    color: #cfcf6a !important;
+    text-decoration: none;
+    font-variant: small-caps;
+    letter-spacing: 1px;
   }
 
   footer p a:hover {
