@@ -7,4 +7,4 @@
 This repository contains the source files for my personal website: is-kh.org.
 
 ## License
-See the [LICENSE.md](LICENSE.md) file for full details.
+See [LICENSE.md](LICENSE.md) for full details.
